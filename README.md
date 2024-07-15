@@ -26,7 +26,7 @@ Download the OULU-NPU, CASIA-FASD, Idiap Replay-Attack, MSU-MFSD and CASIA-Spoof
 
 **Data Pre-processing.** 
 
-[MTCNN algotithm](https://github.com/YYuanAnyVision/mxnet_mtcnn_face_detection) is utilized for face detection and face alignment. All the detected faces are normlaize to 256$\times$256$\times$3, where only RGB channels are utilized for training. 
+[MTCNN algotithm](https://github.com/YYuanAnyVision/mxnet_mtcnn_face_detection) is utilized for face detection and face alignment. All the detected faces are normlaize to 256*256*3, where only RGB channels are utilized for training. 
 
 
 ## Training
