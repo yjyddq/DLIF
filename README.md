@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DLIF
 The implementation of [**Generalized Face Anti-spoofing via Finer Domain Partition and Disentangling Liveness-irrelevant Factors (DLIF)**](https://arxiv.org/abs/2407.08243).
 
