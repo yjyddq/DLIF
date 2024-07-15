@@ -3,13 +3,13 @@ The implementation of [**Generalized Face Anti-spoofing via Finer Domain Partiti
 
 The motivation of the proposed DLIF method:
 <div align=center>
-<img src="https://github.com/yjyddq/DLIF/tree/main/assets/Motivation.pdf" width="400" height="296" />
+<img src="https://github.com/yjyddq/DLIF/blob/main/assets/Motivation.pdf" width="400" height="296" />
 </div>
 
 An overview of the proposed DLIF architecture:
 
 <div align=center>
-<img src="https://github.com/yjyddq/DLIF/tree/main/assets/architecture.pdf" width="700" height="345" />
+<img src="https://github.com/yjyddq/DLIF/blob/main/assets/architecture.pdf" width="700" height="345" />
 </div>
 
 ## Congifuration Environment
