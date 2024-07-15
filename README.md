@@ -13,10 +13,10 @@ An overview of the proposed DLIF architecture:
 </div>
 
 ## Congifuration Environment
-- python 3.6 
-- pytorch 0.4 
-- torchvision 0.2
-- cuda 8.0
+- python 3.10 
+- torch 1.12.1 
+- torchvision 0.13.1
+- cuda 11.4
 
 ## Data
 
