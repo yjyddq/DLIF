@@ -48,13 +48,10 @@ python test.py
 ## Citation
 Please cite our paper if the code is helpful to your research.
 ```
-@misc{yang2024generalizedfaceantispoofingfiner,
-      title={Generalized Face Anti-spoofing via Finer Domain Partition and Disentangling Liveness-irrelevant Factors}, 
-      author={Jingyi Yang and Zitong Yu and Xiuming Ni and Jia He and Hui Li},
-      year={2024},
-      eprint={2407.08243},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2407.08243}, 
+@article{yang2024generalized,
+  title={Generalized Face Anti-spoofing via Finer Domain Partition and Disentangling Liveness-irrelevant Factors},
+  author={Yang, Jingyi and Yu, Zitong and Ni, Xiuming and He, Jia and Li, Hui},
+  journal={arXiv preprint arXiv:2407.08243},
+  year={2024}
 }
 ```
