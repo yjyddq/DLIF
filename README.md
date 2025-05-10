@@ -54,4 +54,13 @@ Please cite our paper if the code is helpful to your research.
   journal={arXiv preprint arXiv:2407.08243},
   year={2024}
 }
+
+@incollection{yang2024generalized,
+  title={Generalized Face Anti-spoofing via Finer Domain Partition and Disentangling Liveness-irrelevant Factors},
+  author={Yang, Jingyi and Yu, Zitong and Ni, Xiuming and He, Jia and Li, Hui},
+  booktitle={ECAI 2024},
+  pages={274--281},
+  year={2024},
+  publisher={IOS Press}
+}
 ```
